@@ -1,0 +1,152 @@
+File Opened successfully
+Color Map File opened successfully
+LineNo = 0
+LineNo = 1
+LineNo = 2
+LineNo = 3
+LineNo = 4
+LineNo = 5
+LineNo = 6
+LineNo = 7
+LineNo = 8
+LineNo = 9
+255, 255, 0
+255, 255, 255
+255, 0, 0
+0, 0, 255
+0, 128, 0
+255, 255, 0
+255, 255, 255
+255, 0, 0
+0, 0, 255
+0, 128, 0
+255, 0, 0
+255, 255, 255
+255, 255, 0
+0, 128, 0
+0, 0, 255
+255, 0, 0
+255, 255, 255
+255, 255, 0
+0, 128, 0
+0, 0, 255
+255, 255, 255
+255, 0, 0
+0, 0, 255
+0, 128, 0
+255, 255, 0
+255, 255, 255
+255, 0, 0
+0, 0, 255
+0, 128, 0
+255, 255, 0
+0, 0, 255
+255, 0, 0
+255, 255, 255
+255, 255, 0
+0, 128, 0
+0, 0, 255
+255, 0, 0
+255, 255, 255
+255, 255, 0
+0, 128, 0
+255, 0, 0
+0, 0, 255
+0, 128, 0
+255, 255, 0
+255, 255, 255
+255, 0, 0
+0, 0, 255
+0, 128, 0
+255, 255, 0
+255, 255, 255
+0, 128, 0
+0, 0, 255
+255, 0, 0
+255, 255, 255
+154, 205, 50
+0, 128, 0
+0, 0, 255
+255, 0, 0
+255, 255, 255
+255, 255, 0
+0, 0, 255
+0, 128, 0
+255, 255, 0
+255, 255, 255
+154, 205, 50
+0, 0, 255
+0, 128, 0
+255, 255, 0
+255, 255, 255
+255, 0, 0
+255, 255, 0
+0, 128, 0
+0, 0, 255
+255, 0, 0
+255, 255, 255
+255, 255, 0
+0, 128, 0
+0, 0, 255
+255, 0, 0
+255, 255, 255
+0, 128, 0
+255, 255, 0
+255, 255, 255
+255, 0, 0
+0, 0, 255
+0, 128, 0
+255, 255, 0
+255, 255, 255
+255, 0, 0
+0, 0, 255
+255, 255, 255
+255, 255, 0
+0, 128, 0
+0, 0, 255
+255, 0, 0
+255, 255, 255
+255, 255, 0
+0, 128, 0
+255, 255, 255
+255, 0, 0
+VK_UP presssed1 = 1
+left = 20 top=734 right=50 bottom=760VK_UP presssed iNumber= 3
+VK_UP presssed2 = 4
+VK_UP presssed = 5
+VK_UP presssed = 6
+VK_UP presssed = 7
+VK_UP presssed = 8
+VK_UP presssed = 9
+VK_UP presssed = 10
+VK_UP presssed = 11
+VK_UP presssed = 12
+VK_UP presssed = 13
+VK_UP presssed = 14
+VK_UP presssed1 = 14
+left = 740 top=658 right=770 bottom=684VK_UP presssed iNumber= 1
+playMusic thread wake up
+VK_UP presssed1 = 15
+left = 620 top=658 right=650 bottom=684VK_UP presssed iNumber= 3
+VK_UP presssed1 = 18
+left = 260 top=658 right=290 bottom=684VK_UP presssed iNumber= 4
+VK_UP presssed1 = 22
+left = 140 top=582 right=170 bottom=608VK_UP presssed iNumber= 3
+VK_UP presssed1 = 25
+left = 500 top=582 right=530 bottom=608VK_UP presssed iNumber= 4
+VK_UP presssed1 = 29
+left = 980 top=582 right=1010 bottom=608VK_UP presssed iNumber= 5
+VK_UP presssed1 = 34
+left = 740 top=506 right=770 bottom=532VK_UP presssed iNumber= 1
+VK_UP presssed1 = 35
+left = 620 top=506 right=650 bottom=532VK_UP presssed iNumber= 3
+VK_UP presssed1 = 38
+left = 260 top=506 right=290 bottom=532VK_UP presssed iNumber= 2
+VK_UP presssed1 = 40
+left = 20 top=506 right=50 bottom=532VK_UP presssed iNumber= 5
+VK_UP presssed1 = 45
+left = 500 top=430 right=530 bottom=456VK_UP presssed iNumber= 1
+VK_UP presssed1 = 46
+left = 620 top=430 right=650 bottom=456VK_UP presssed iNumber= 3
+VK_UP presssed1 = 49
+left = 980 top=430 right=1010 bottom=456VK_UP presssed iNumber= 1
